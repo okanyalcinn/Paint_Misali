@@ -2,7 +2,7 @@
 
 Öğretmenlerimizi baz alarak tasarladığım bu program, ders anlatımları kolaylaştırmak ve etkili bir anlatım sergilemek için tasarlandı. Umarım yakın zamanda gerekli geliştirmeleri de yaparak sizlerle paylaşacağım.
 
-**Kullanılan Kütüphaneler**
+**Kullanılan Kütüphaneler**<br>
 
 - Drawing
 - Drawing2D
@@ -10,7 +10,7 @@
 - Imaging
 - Forms
 
-**Program İçeriği**
+**Program İçeriği**<br>
 → Metin girdisi (boyut, yazı sitili, font ayarı)🔤<br>
 → Düz çizgi (kalınlık, renk ayarı) ➖  <br>
 → Kalem aracı (kalınlık, renk ayarı) 🖊 <br>
@@ -22,7 +22,7 @@
 → Çalışma üzerine resim ekleme aracı (boyut ve konum ayarı) 🖼<br>
 → Masaüstü ekran görüntüsü alma aracı 📷
 
-**C# içeriği**
+**C# içeriği**<br>
 9 adet method ile kod tekrarının önüne geçildi. Bunların 1 tanesini 3  aşırı yüklemeli olarak tasarlandı, dikdörtgen (kare) ve elips (çember) çizimleri için tekrar eden yazım ortadan kaldırıldı.
 
 
