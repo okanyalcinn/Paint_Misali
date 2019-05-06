@@ -10,7 +10,7 @@
 - Imaging
 - Forms
 
-**Program İçeriği**<br>
+**Program İçeriği**<br><br>
 → Metin girdisi (boyut, yazı sitili, font ayarı)🔤<br>
 → Düz çizgi (kalınlık, renk ayarı) ➖  <br>
 → Kalem aracı (kalınlık, renk ayarı) 🖊 <br>
@@ -22,11 +22,11 @@
 → Çalışma üzerine resim ekleme aracı (boyut ve konum ayarı) 🖼<br>
 → Masaüstü ekran görüntüsü alma aracı 📷
 
-**C# içeriği**<br>
+**C# içeriği**<br><br>
 9 adet method ile kod tekrarının önüne geçildi. Bunların 1 tanesini 3  aşırı yüklemeli olarak tasarlandı, dikdörtgen (kare) ve elips (çember) çizimleri için tekrar eden yazım ortadan kaldırıldı.
 
 
-Temel amaç kullanıcı dostu yazılımcı dostu olmak. <br> - Kullanım kolaylığı ve uygun bir görsel tasarım planladım. <br> - Form kütüphanesini kullanan class'lar ile kod yazımındaki karışıklığın önüne geçmeyi amaçladım.<br>
+Temel amaç kullanıcı dostu yazılımcı dostu olmak. <br> - Kullanım kolaylığı ve uygun bir görsel tasarım planladım. <br><br> - Form kütüphanesini kullanan class'lar ile kod yazımındaki karışıklığın önüne geçmeyi amaçladım.<br><br>
  İncelemenizi öneririm. Zaman ayırdığınız için teşekkürler :slightly_smiling_face:
 
 ---
