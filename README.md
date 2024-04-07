@@ -1,3 +1,6 @@
+![Paint_Misali](https://github.com/okanyalcinn/Paint_Misali/assets/45590252/a3feee77-69a4-449d-8da3-b551ba93b910)
+
+
 # Paint Misali - Drawing Tool 🎨
 
 Öğretmenlerimizi baz alarak tasarladığım bu program, ders anlatımları kolaylaştırmak ve etkili bir anlatım sergilemek için tasarlandı. Umarım yakın zamanda gerekli geliştirmeleri de yaparak sizlerle paylaşacağım.
@@ -31,4 +34,4 @@ Temel amaç kullanıcı dostu yazılımcı dostu olmak. <br> - Kullanım kolayl�
 
 ---
 
->Not: Bir çok eksiği bulunmaktadır. Zamanla gidermeyi planlıyorum.
+>Not: Bir çok eksiği bulunmaktadır. 
